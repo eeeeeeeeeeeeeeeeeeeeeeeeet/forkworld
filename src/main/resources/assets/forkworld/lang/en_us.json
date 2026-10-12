@@ -1,0 +1,9 @@
+{
+  "key.categories.forkworld": "Fork World",
+  "key.forkworld.fork": "Fork (enter sandbox)",
+  "key.forkworld.slow_fork": "Fork in slow motion (2x slower)",
+  "key.forkworld.rewind": "Rewind fork",
+  "key.forkworld.discard": "Discard fork / cancel merge",
+  "key.forkworld.merge": "Finish fork and merge",
+  "key.forkworld.debug_record": "Debug: record in real world"
+}
